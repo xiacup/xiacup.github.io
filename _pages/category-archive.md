@@ -1,6 +1,6 @@
 ---
 title: "秩序"
-layout: 
+layout: categories
 permalink: /categories/
 author_profile: true
 ---
