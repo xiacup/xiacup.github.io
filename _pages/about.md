@@ -1,6 +1,6 @@
 ---
-title: "夏"
 permalink: /about/
+title: "夏"
 ---
 
 在路上
