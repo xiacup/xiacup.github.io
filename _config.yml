@@ -17,12 +17,8 @@
 locale: "zh-CN"
 
 title: xia
-subtitle: cup
-name: vale
+name: 夏卫强
 description: "An amazing website."
-url: https://xiacup.github.io/
-baseurl: # the subpath of your site, e.g. "/blog"
-masthead_title: great
 
 # twitter_username: username
 # github_username: username
