@@ -1,6 +1,6 @@
 ---
-title: "关于"
 permalink: /about/
+title: "关于"
 ---
 
 在路上
