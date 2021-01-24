@@ -1,8 +1,5 @@
 ---
 permalink: /about/
 title: "关于"
+layout: about
 ---
-
-
-
-将时间嵌入文字之中
