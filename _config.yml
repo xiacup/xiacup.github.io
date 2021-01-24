@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "v xia"
+  name   : "夏卫强"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "将时间嵌入文字之中"
+  bio    : "夏卫强，在路上"
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
