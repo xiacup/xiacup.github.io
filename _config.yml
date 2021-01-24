@@ -15,8 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 locale: zh-CN
 title: xia
+subtitle: cup
+name: vale
 email: xia.one@outlook.com
-description: "baseurl:"
+description: An amazing website.
 
 # twitter_username: username
 # github_username: username
