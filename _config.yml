@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-locale: zh-CN
+locale: "zh-CN"
 
 title: xia
 subtitle: cup
 name: vale
-description: An amazing website.
+description: "An amazing website."
 url: https://xiacup.github.io/
 baseurl: # the subpath of your site, e.g. "/blog"
 masthead_title: great
@@ -69,6 +69,7 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "阅读，构建"
   email: xia.one.outlook.com
+
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
