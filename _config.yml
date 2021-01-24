@@ -13,21 +13,27 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 locale: zh-CN
+
 title: xia
 subtitle: cup
 name: vale
-email: xia.one@outlook.com
 description: An amazing website.
+url: https://xiacup.github.io/
+baseurl: # the subpath of your site, e.g. "/blog"
+masthead_title: great
 
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
+
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -61,7 +67,8 @@ plugins:
 author:
   name   : "夏卫强"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "夏卫强，在路上"
+  bio    : "阅读，构建"
+  email: xia.one.outlook.com
 #  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
